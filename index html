@@ -1,0 +1,25 @@
+<doctype html>
+<html>
+<head>
+<tittle>this is a very good </tittle>
+</head>
+<body>
+<h1 style="background-color:yellow;">THIS IS A HEADING </h1>
+<hr width="50%"size="20px"color="red">
+<br>
+<h2 style="background-color: yellow;"> this is a heading <h2>
+<hr width="60%"size="30px"color="green">
+<br>
+<h3 style="background-color:yellow;"> this is a heading <h3>
+<hr width="65%"size="40px"color="blue">
+<br>
+<p> this is paragraph </p>
+<p> this is two paragraph </p>
+<p> this is three paragraph </p>
+
+<div> this is the texting div text </div>
+<img src="natural.jpg">
+<img width="200px"height="100px" src="img.jpg>
+<hr>
+<a href="#">www manuu.ae.com>
+</body
