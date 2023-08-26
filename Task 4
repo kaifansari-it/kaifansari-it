@@ -1,0 +1,66 @@
+<doctype html>
+<html>
+<head>
+<title>htmlform</title>
+<style>
+.box{background-color: pink;
+margin:20px30px40px50px;
+}
+</style>
+</head>
+<body>
+<div class="box"style="color:aqua;"</div>
+<form>
+<fieldsheet><legend>
+<h1>student resitation form</h1>
+<div> name<input type="text"></div>
+<br>
+<div class="box"style="color.div>
+<br>
+<div class="box"style="color:grey;">email <input type="text"></div>
+<br>
+<div
+class="box"style="color:green;">
+password<input type="text"></div>
+<br>
+<div class="box"style="color:brown;">Gender male<input type="radio">
+Female<input type="radio">
+outher<input type="radio"></div>
+<br>
+<div class="box"style="color:red;">date of birth<input type="date"></div><br>
+<div class="box"style="color:orange;">department of IT<input type="radio">
+cse<input type="radio">
+EEE<input type="radio">
+civil <input type="radio">
+</div>
+<br>
+<div class="box"style="color:skyblue;">address<input type="text"></div>
+<br>
+<div class="box"style="color:black;">course python<input type="checkbox">
+java<input type="checkbox">
+c+++<input type="checkbox"></div>
+<br>
+<div class="box"style="color:;">blood group<select name="dropdown">
+<option value="A">A</option>
+<option value="A+">A+</option>
+<option value="B">B</option>
+<option value="B+">B+</option>
+<option value="C">C</option>
+</select></div><br>
+<div class="box"style="color:powderblue;">photo<input type="file">
+</div><br>
+<div>
+<input type="submit"value="submit">
+<input type="reset"value="reset">
+</div>
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
+
