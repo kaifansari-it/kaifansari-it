@@ -1,0 +1,298 @@
+<doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport"content="wodth=device-width, initial-scale=1.0">
+<link rel="stylesheet"href=". style css">
+<title>project</title>
+<style>
+.*{margin:0;
+padding:0;
+font-sizing:border box;
+font-family:'ubuntu',sans-serif;
+}
+ .navbar{display:flex;
+ flex-direction:row;
+ position:relative;
+ background:#00ded1;
+   padding:3px 3px; 
+ } 
+ .navbar ul{
+     display:flex;
+     flex-direction:row;
+     list-style:10px;
+     margin:6px 10px;
+ }
+ .navbar ul li{
+     margin:2px 2px;
+ }
+ .navbar ul li a{
+   color:beige;
+   text-direction:none; 
+   border:2px solid #1e90ff; 
+   padding:3px 10px;
+   border-radius:6px;
+   background:#00ffff;
+   font-weight:1200;
+   font-align: centre;
+ } 
+ .navbar h1{display:flex;
+ flex-direction:row;
+ justify-content:center;
+ align-item:center;
+ 
+ } 
+ 
+ .banner{display:flex;
+ justify-content:center;
+ align-item:center;
+ 
+ background:url(/storage/emulated/0/Pictures/shah-jahan.jpg)
+ background-size:cover;  
+ }no repeat content 
+ .banner a{display:flex;
+ font-size:100px;
+ text-show:
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .container{
+ position:relative;
+ padding:1px;
+ hight:10px;
+ width:320px;
+ border:2px solid aquamarine;
+ 
+ }
+ .container{
+ position:relative;
+ padding:80px 20px;
+ margin:5px;
+ hight:10px;
+ width:320x;
+ border:5px solid black;
+ border-radius:200px;
+ border-size:50px;
+ background-color: Pink;
+ }
+
+ 
+ .course1 a{ margin:2px;
+ padding:2px;
+ border-size:100px;
+   border:2px radius; 
+    
+    
+ }
+ 
+ .footer{
+     display:flex;
+     background:darkslategray;
+     text-direction: underline;
+     font-size:15px;
+     color:#fff;
+     text-align:center;
+     flex-direction:coloum;
+     
+     justify-content:center;
+     align-item:center;
+     
+ }
+ .input-field{
+    flex-direction:coloum;
+    text-align:left!important;
+    text-direction:none!important; 
+}
+ 
+    </style> 
+
+</head>
+<body style="background-color:darkcyan;">
+<section>
+<nav class="navbar">
+<ul>
+<li><a href="#">HOME</a></li>
+<li><a href="#">ABOUT</a></li>
+<li><a href="#">CONTACT</a></li>
+<li><a href="#">HELP</a></li>
+<li><a href="#">SIGN IN/SIGN UP</a></li>
+</ul>
+</nav>
+<br>
+<div class="banner">
+<a style="color:white">Shahjahan And Tajmahal of History </a1>
+
+
+<h1 style="color:red">Mughal Emperor</h1></div>
+
+</section>
+<section>
+
+
+<div style="color: aquamarine;"class="step 1">Regin:- 19 January 1628 -31 July 1658</div><br><hr>
+<div style="color:indianred; class="step 2">Coronation:- 14 February 1628</div><br><hr>
+
+<div style="color:blue;"class="step3">Born:- Khurram,5 January 1592</div><br><hr>
+
+<div style="color:aqua;"class="step4">Died:- 22 January 1666(aged 74)</div><br><hr>
+
+<div style="color:orange;"class="step 5">Buril:- Tajmahal Agra Uttarpradesh India</div><br><hr>
+<div style="color:hotpink;"class="step 6">Consort:- Mumtaj Mahal
+(died:-1631)</div><br>
+
+<div class="container">
+<div class="course1">Shah jahan, also called (until 1628) Prince Khurram, original name Shihab al-Din Muhammad Khurram, (born January 5, 1592, Lahore [now in Pakistan]—died January 22, 1666, Agra [now in India]), Mughal emperor of India (1628–58) who built the Taj Mahal.He was the third son of the Mughal emperor Jahangir and the Rajput princess Manmati. In 1612 he married Arjumand Banu Begum, niece of Jahangir’s wife Nur Jahan, and became, as Prince Khurram, a member of the influential Nur Jahan clique of the middle period of Jahangir’s reign
+ In 1622 Khurram, ambitious to win the 
+ succession, rebelled, ineffectually roaming the empire until reconciled to Jahangir in 1625. After Jahangir’s death in 1627, the support of Asaf Khan, Nur Jahan’s brother, enabled Shah
+ <a style="color:greenyellow;"href="https://en.m.wikipedia.org/">click here</a>
+ <button style="color:green;">submit</button>
+ </div>
+ 
+ <div class="course2">Jahan to proclaim himself emperor at Agra (February 1628)If You'd Only Be My Valentine, American Valentine card, 1910. Cupid gathers a basket of red hearts from a pine tree which, in the language of flowers represents daring. Valentine's Day St. Valentine's Day February 14 love romance history and society heart In Roman mythology Cupid was the son of Venus, goddess of love (Eros andAphrodite in the Greek Pantheon)Shah Jahan’s reign was notable for successes against the Deccan (peninsular Indian) states. By 1636 Ahmadnagar had been annexed and Golconda and Vijayapura (Bijapur) forced to become tributaries. Mughal power was also temporarily extended in the northwest. In 1638 the Persian governor of Kandahar, ʿAlī
+  <a style="color:greenyellow;"href="https://en.m.wikipedia.org/">click here</a>
+ <button style="color:green;">submit</button>
+  </div>
+  <div class="course3">
+   Mardan Khan, surrendered that fortress to the Mughals. In 1646 Mughal forces occupied Badakhshan and Balkh, but in 1647 Balkh was relinquished, and attempts to reconquer it in 1649, 1652, and 1653 failed. ThePersiansreconquered Kandahar in 1649. Shah Jahantransferred his capital from Agra to Delhi in 1648, creating the new city of Shahjahanabad there.
+   <a style="color:greenyellow;"href="https://en.m.wikipedia.org/">click here</a>
+ <button style="color:green;">submit</button></div>
+
+<div class="course4">Shah Jahan left behind a grand legacy of structures constructed during his reign. He was one of the greatest patrons of Mughal architecture. His reign ushered in the golden age of Mughal architecture. His most famous building was the Taj Mahal, which he built out of love for his wife, the empress Mumtaz Mahal.<a style="color: greenyellow;" href="https://en.m.wikipedia.org/">click here</a>
+ <button style="color:green;">submit</button></div>
+ <p>
+About Taj Mahal
+Travel Information
+Day Tours
+Views of Taj
+Tourist Guide Map
+UNESCO - World Heritage
+Heritage Walks
+
+
+About Taj Mahal The Taj Mahal Story
+The Taj Mahal Story
+A TIMELESS SAGA | Mughal Splendour
+
+HISTORY | FACTS
+Who could ever think that an eternal love leading to the saga of infinite bondage can evolve out of a desert like land and would blossom to be the reason to gift our world a poem-in-marble, The Taj!
+<br>
+
+No image of The Taj, neither on canvass nor on celluloid, can adequately express its conceptual imaginary nor convey the legend, the poetry and the romance that shrouds what Rabindranath Tagore calls "a teardrop on the cheek of time".
+<br>
+
+The Taj Mahal, a spectacle in white marble, unparalleled in grandeur that depicts the sheer opulence of an era. The awesome structure, the monument of love that Mughal Emperor Shah Jahan gave to the world, stands as a testimony of his intense love for his wife Mumtaz Mahal.
+<br>
+
+It is a romance celebrated in marble and glorified with precious and semi-precious stones and that’s the way to appreciate it!
+<br>
+
+Uttar Pradesh, the Land of The Taj is rich in its cultural heritage and has always been a prominent arena of politics since the ancient times. Agra, the City of The Taj and once the capital of the Mughal Empire during the 16th through the early 18th centuries, enjoys a close proximity to the National Capital City of New Delhi.
+<br>
+
+Tourists from all over the world visit Agra to make a pilgrimage to Taj Mahal, India’s most famous architectural wonder, in a land where magnificent temples and edifices abound to remind visitors about the rich civilization of a country that is slowly but surely lifting itself into an industrialized society as well.
+<br><br>
+
+Taj Mahal means "Crown Palace" and is in fact the most well preserved and architecturally beautiful tomb in the world. The English poet, Sir Edwin Arnold has described The Taj as "Not a piece of architecture, as other buildings are, but the proud passions of an emperor’s love wrought in living stones."
+<br><br>
+
+It is a romance celebrated in marble and glorified with precious and semi-precious stones and that’s the way to appreciate it!.
+<br><br>
+
+Taj Mahal stands on the bank of River Yamuna, which otherwise serves as a wide most defending the Great Red Fort of Agra, the center of the Mughal emperors until they moved their capital to Delhi in 1637. It was built by the fifth Mughal emperor, Shah Jahan in 1631 in memory of his third but the most favourite wife, in fact a soul-mate Mumtaz Mahal, a Muslim Persian princess. She died while accompanying her husband in Burhanpur in a campaign to crush a rebellion after giving birth to their 13th child. The death so crushed the emperor that all his hair and beard were said to have grown snow white in a few months.
+<br><br>
+
+When Mumtaz Mahal was still alive, she extracted four promises from the emperor: first, that he build the Taj; second, that he should marry again; third, that he be kind to their children; and fourth, that he visit the tomb on her death anniversary. However, due to ill health and being under house arrest by his own son and successor to the throne, Aurangzeb, barred him from continue to keep the last promise.
+<br><br>
+
+The Taj rises on a high red sandstone base topped by a huge white marble terrace on which rests the famous dome flanked by four tapering minarets. Within the dome lies the jewel-inlaid cenotaph of the queen. So exquisite is the workmanship that the Taj has been described as "having been designed by giants and finished by jewellers". The only asymmetrical object in the Taj is the casket of the emperor which was built beside the queen’s as an afterthought.
+<br><br>
+
+Legend has it that during his eight years long ailment and imprisonment, Shah Jahan used to intensly view The Taj lying on the bed through a diamond fixed in the wall in front at a particular angle. WOW!!!
+<br><br>
+
+As a tribute to a woman of exotic beauty and as a monument of a love story, which is keeping us engrossed even when we are reading through these pages here, truely an ever-lasting romance of a love not ended as yet, the Taj reveals its subtleties to its beholder!
+<br><br>
+
+The rectangular base of Taj is in itself symbolic of the different sides from which to view a beautiful woman. The main gate is like a veil to a woman’s face which should be lifted delicately, gently and without haste on the wedding night. In Indian tradition the veil is lifted gently to reveal the beauty of the bride. As one stands inside the main gate of Taj, his eyes are directed to an arch which frames the Taj.
+<br><br>
+
+The dome is made of white marble, but the tomb is set against the plain across the river and it is this background that works its magic of colours that, through their reflection, change the view of the Taj. The colours change at different hours of the day and during different seasons.
+<br><br>
+
+The Taj sparkles like a jewel in moonlight when the semi-precious stones inlaid into the white marble on the main mausoleum catch and reflect back its glow with a better gleam. The Taj is pinkish in the morning, milky white in the evening and golden when the moon shines. These changes, they say, depict the different moods of a beauty of any kind.
+<br><br>
+
+Different people have different views of the Taj but it would be enough to say that the Taj has a life of its own that leaps out of marble. A masterpiece of the art and science of architecture, a representative of an era called The Mughal Period surpassing any authority to add or de-add anything in any sense in or out of the Taj!
+<br><br>
+
+The Taj Mahal stands tall with grace is not just a parable epitome of emotional & eternal love between a man and a woman but for other reasons too _
+<br><br>
+
+Emperor Shah Jahan, who commissioned the construction of ‘The Taj’, desired to create it also as a symbol of solemnity, harmony, purity and spirituality as well.
+<br><br>
+
+The Taj is not merely a monument of grace and dignity alone. It is, in fact, a message to all mankind that “Pure love is the soul of life”.
+<br><br>
+
+The Taj is a reminder for all mankind about the universally accepted but not so well practiced concept of ‘Love & Peace’, the essence of the paradise, free from conflicts of races and geographical boundaries is important to be observed solemnly.
+<br><br>
+
+The Taj is simply a majestic tribute to an exotic beauty!
+The saga of The Taj would be half told if the myths related to it are not mentioned. Like many a great buildings the Taj Mahal has its myths and legends. It seems that there is more fiction on the Taj than serious scholarly research. Several of the stories belong solely to oral tradition and are told by the guides, some are so established that they form a popular history of the monument and have made their way into guidebooks, and some have been taken up by scholars, or even created by them, and thus become part of the scholarly debate.
+<br><br>
+
+Facts
+To the last category belong the oldest tales of the Taj. Here the most widely known is the story of the second Taj, the 'Black Taj', which Shah Jahan intended to build in black marble opposite the present mausoleum, on the site of the Mahtab Bagh. It goes back to Jean-Baptiste Tavernier who, when at Agra in 1665 AD, reported that 'Shahjahan began to built his own tomb on the other side of the river, but the war with his sons interrupted his plan, and Aurangzeb, who reigns at present, is not disposed to complete it. Shah Jahan was put under house arrest by his own son and successor by force, Aurangzeb. The latter did not agree with his father on most issues and was particularly opposed to him building a black Taj as his own mausoleum.
+<br><br>
+
+Upon Shah Jahan's death, Aurangzeb made the body of the Emperor, who got the body of his beloved Mumtaz in a golden casket from Burhanpur to Agra, carried in a boat by only two men and buried him in the Taj, next to his wife in probably the simplest manner.
+<br><br>
+
+ <p><a style="color: greenyellow;" href="https://www.tajmahal.gov.in/">click here</a>
+ <button style="color:green;">submit</button></p>
+</container>
+</section>
+<footer class="footer">
+<div class="contact form"><form action="#">
+<div class="input-field">
+<label for="Name">Student Name</label>
+<input type="text"placeholder="Your Name">
+
+<div class="input-field">
+<label for="Name">Email Address</label>
+<input type="text"placeholder="Enter Your Email">
+<div class="input-field">
+<label for="Name">Roll Number</label>
+<input type="text"placeholder="Enter Roll No">
+<div class="input-field">
+<label for="Name">Mobile no.</label>
+<input type="text"placeholder="Enter Mobil no">
+<div class="input-field">
+<label for="Name">Message.</label>
+<textarea name=""id=""cols="30"rows="10"placeholder="Enter message"></textarea>
+
+</div>
+</form>
+<p>All right reserved copying developed taj mahal</p>
+
+</footer
+
+
+
+</body>
+
+
+
+
+</html>
